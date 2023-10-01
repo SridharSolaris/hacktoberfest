@@ -1,3 +1,8 @@
+#### Name: [Reddi Venkata Sridhar](https://github.com/SridharSolaris)
+ - Place: Andhra Pradesh, India
+ - Bio: Computer Science Student, B.Tech
+ - GitHub: [SridharSolaris](https://github.com/SridharSolaris)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
